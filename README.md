@@ -1,4 +1,4 @@
-Local Password Management
+<h1>Local Password Management</h1>
 
 Password management application developed using Python and tkinter. Password are stored locally in a .json file.
 
